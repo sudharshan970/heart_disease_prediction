@@ -14,6 +14,11 @@ A futuristic and interactive Machine Learning web application that predicts the 
 </div>
 
 ---
+# 🚀 Deployment Link
+
+## Live Demo
+https://your-streamlit-app-link.streamlit.app
+---
 
 # 📌 Project Overview
 
