@@ -117,10 +117,10 @@ This project uses two CSV datasets:
 # 🔗 Dataset Links
 
 ## values.csv Dataset
-https://your-dataset-link.com
+https://drive.google.com/file/d/1FlsAx1MHir_T2NsKQyDsa8-PsX_aA5p1/view?usp=sharing
 
 ## labels.csv Dataset
-https://your-dataset-link.com
+https://drive.google.com/file/d/1XA0QtG02odGY6xHxyuN1yhrAZPXlPNtY/view?usp=sharing
 
 ---
 
