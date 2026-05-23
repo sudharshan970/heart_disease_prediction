@@ -124,11 +124,6 @@ https://your-dataset-link.com
 
 ---
 
-# 🚀 Deployment Link
-
-## Live Demo
-https://your-streamlit-app-link.streamlit.app
-
 ---
 
 # 📸 Application Screenshots
