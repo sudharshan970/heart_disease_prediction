@@ -17,7 +17,8 @@ A futuristic and interactive Machine Learning web application that predicts the 
 # 🚀 Deployment Link
 
 ## Live Demo
-https://your-streamlit-app-link.streamlit.app
+https://heartdiseaseprediction-pgyvohhxtdk99psaybnran.streamlit.app/
+
 ---
 
 # 📌 Project Overview
